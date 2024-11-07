@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
-discord:黑子#5291
+discord:a_zk._.
 
 <!---
 zzz123-66/zzz123-66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
